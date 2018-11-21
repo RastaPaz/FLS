@@ -286,4 +286,5 @@ int main( int argc, char *argv[] )
 	    BVTColorMapper_Destroy(mapper);
 	    BVTSonar_Destroy(son);
 	    return 0;
+//newcomment
 }
